@@ -1,2 +1,2 @@
 # acmpractice
-practice programming about ACM problem
+programming practice by solving some ACM-ICPC problem
